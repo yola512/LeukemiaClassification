@@ -7,7 +7,14 @@ Uni project for Testing and Code Optimisation course. This project focused on te
 The dataset used consists of microscopic images of blood cells, divided into two classes:
 -	**ALL** — cancerous cells (Acute Lymphoblastic Leukemia)
 -	**HEM** — healthy cells
-A total of 15,114 images were available. For final testing and optimization, the dataset was balanced and augmented to ensure fair training without bias.
+
+A total of 15,114 images were available:
+- **All**         : 7272 images
+- **Hem**         : 3389 images
+- **Test**        : 2586 images
+- **Validation**  : 1867 images
+
+For final testing and optimization, the dataset was balanced and augmented to ensure fair training without bias.
 
 ## ✅ Requirements (as per project guidelines)
 
